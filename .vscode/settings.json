@@ -1,0 +1,20 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "*.tcc": "c",
+    "string": "c",
+    "string_view": "c",
+    "ostream": "c",
+    "stdexcept": "c",
+    "system_error": "c",
+    "typeinfo": "c",
+    "token.h": "c",
+    "lookup.h": "c",
+    "parser.h": "c",
+    "lexer.h": "c",
+    "ast.h": "c",
+    "repl.h": "c",
+    "lookup_table.h": "c",
+    "string.h": "c"
+  }
+}
